@@ -1,0 +1,12 @@
+{
+	"arrowParens": "always",
+	"trailingComma": "all",
+	"singleQuote": true,
+	"tabWidth": 4,
+	"jsxBracketSameLine": false,
+	"printWidth": 100,
+	"semi": false,
+	"useTabs": true,
+	"withNodeModules": false,
+	"useEditorConfig": false
+}

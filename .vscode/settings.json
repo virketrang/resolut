@@ -1,0 +1,13 @@
+{
+	"editor.fontSize": 14,
+	"prettier.arrowParens": "always",
+	"prettier.trailingComma": "all",
+	"prettier.singleQuote": true,
+	"prettier.tabWidth": 4,
+	"prettier.jsxBracketSameLine": false,
+	"prettier.printWidth": 100,
+	"prettier.semi": false,
+	"prettier.useTabs": true,
+	"prettier.withNodeModules": false,
+	"prettier.useEditorConfig": false
+}
